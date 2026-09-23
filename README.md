@@ -1,20 +1,21 @@
 <div align="center">
   <h1>Mateo Vicente</h1>
-  <p><strong>Desarrollador de Software | Especialista en Soporte y Hardware</strong></p>
+  <p><strong>Desarrollo Web y Móvil | Soporte Técnico y Hardware</strong></p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=DB5461&center=true&vCenter=true&width=500&lines=Desarrollo+Web+Full+Stack;Aplicaciones+M%C3%B3viles+%26+Cloud;Integraci%C3%B3n+con+Machine+Learning;Arquitectura+y+Optimizaci%C3%B3n+de+Hardware" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=DB5461&center=true&vCenter=true&width=500&lines=Desarrollo+Web;Aplicaciones+M%C3%B3viles;Python+%2B+Bases+de+Datos;Armado+y+Mantenimiento+de+PCs" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### Perfil Profesional
+### Sobre mí
 
-- **Especialidad actual:** Desarrollo de soluciones web completas (Frontend y Backend) y diseño de aplicaciones móviles funcionales.
-- **Ruta de aprendizaje:** Modelos de Machine Learning, despliegue de infraestructura en la nube y arquitecturas modernas de software.
-- **Colaboración activa:** Abierto a participar en proyectos de código abierto, desarrollo de sistemas internos y automatización de procesos.
-- **Competencias transversales:** Diagnóstico, soporte técnico especializado, ensamblaje y optimización de hardware a nivel de sistema.
+- **Actualmente:** Creando proyectos de desarrollo web y aplicaciones móviles.
+- **Aprendiendo:** Inteligencia artificial, machine learning y desarrollo para móviles.
+- **Colaboraciones:** Disponible para participar en proyectos de software y soluciones prácticas.
+- **Pregúntame sobre:** Desarrollo web (frontend y backend), Python y bases de datos.
+- **Hardware y soporte:** Armado, optimización y mantenimiento de computadoras.
 
 ---
 
@@ -43,7 +44,7 @@
 
 ---
 
-### Métricas de Rendimiento
+### Estadísticas de GitHub
 
 <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=Big-Mati&theme=calm_pink&show_icons=true&hide_border=true&count_private=true" height="155" alt="GitHub Stats" />
@@ -56,11 +57,11 @@
 
 ---
 
-### Canales de Contacto
+### Contacto
 
 <div align="center">
   <a href="mailto:matevicentenima@gmail.com">
-    <img src="https://img.shields.io/badge/Correo_Electr%C3%B3nico-matevicentenima@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-matevicentenima@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/Mateo%20Vicente" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Mateo_Vicente-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -72,12 +73,12 @@
     <img src="https://img.shields.io/badge/Instagram-@bigmati20-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://discord.gg/bigmati20" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Servidor-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+    <img src="https://img.shields.io/badge/Discord-bigmati20-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Big-Mati&style=flat-square&color=db5461&label=Visitas+Totales" alt="Contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=Big-Mati&style=flat-square&color=db5461&label=Visitas" alt="Contador de visitas" />
 </div>
