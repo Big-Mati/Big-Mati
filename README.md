@@ -1,73 +1,83 @@
-# Sobre mí
+<div align="center">
+  <h1>Mateo Vicente</h1>
+  <p><strong>Desarrollador de Software | Especialista en Soporte y Hardware</strong></p>
 
-- **Enfoque actual:** Proyectos de desarrollo web y aplicaciones móviles.
-- **Interés en colaborar:** Proyectos de desarrollo de software y soluciones prácticas de código abierto.
-- **Buscando orientación en:** Despliegue en la nube (Cloud) e integración con Inteligencia Artificial.
-- **Aprendizaje continuo:** Machine Learning, Inteligencia Artificial y arquitecturas móviles.
-- **Hablemos de:** Desarrollo Full Stack (Frontend y Backend), bases de datos, Python y soporte técnico/hardware.
-- **Dato de interés:** Apasionado tanto por la arquitectura y ensamblaje de hardware como por el desarrollo de software.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=DB5461&center=true&vCenter=true&width=500&lines=Desarrollo+Web+Full+Stack;Aplicaciones+M%C3%B3viles+%26+Cloud;Integraci%C3%B3n+con+Machine+Learning;Arquitectura+y+Optimizaci%C3%B3n+de+Hardware" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
-## Redes y Contacto
+### Perfil Profesional
 
-<p align="left">
-  <a href="mailto:mateovicetenima@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/Mateo%20Vicente" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/BigMati1220" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="https://instagram.com/bigmati20" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://discord.gg/bigmati20" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-</p>
+- **Especialidad actual:** Desarrollo de soluciones web completas (Frontend y Backend) y diseño de aplicaciones móviles funcionales.
+- **Ruta de aprendizaje:** Modelos de Machine Learning, despliegue de infraestructura en la nube y arquitecturas modernas de software.
+- **Colaboración activa:** Abierto a participar en proyectos de código abierto, desarrollo de sistemas internos y automatización de procesos.
+- **Competencias transversales:** Diagnóstico, soporte técnico especializado, ensamblaje y optimización de hardware a nivel de sistema.
 
 ---
 
-## Tecnologías y Herramientas
+### Tecnologías y Herramientas
 
-### Lenguajes de Programación
+#### Lenguajes de Programación
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
 </p>
 
-### Frontend
+#### Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-### Bases de Datos
+#### Backend y Bases de Datos
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
 </p>
 
 ---
 
-## Estadísticas de GitHub
+### Métricas de Rendimiento
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Big-Mati&theme=calm_pink&show_icons=true&hide_border=false&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Big-Mati&theme=calm_pink&layout=compact&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Big-Mati&theme=calm_pink&show_icons=true&hide_border=true&count_private=true" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Big-Mati&theme=calm_pink&layout=compact&hide_border=true" height="155" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://streak-stats.demolab.com/?user=Big-Mati&theme=calm_pink&hide_border=false" alt="GitHub Streak" />
+<div align="center" style="margin-top: 15px;">
+  <img src="https://streak-stats.demolab.com/?user=Big-Mati&theme=calm_pink&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Big-Mati&style=flat-square&label=Perfil+Visitado" alt="Contador de visitas" />
-</p>
+### Canales de Contacto
+
+<div align="center">
+  <a href="mailto:matevicentenima@gmail.com">
+    <img src="https://img.shields.io/badge/Correo_Electr%C3%B3nico-matevicentenima@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/Mateo%20Vicente" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mateo_Vicente-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/BigMati1220" target="_blank">
+    <img src="https://img.shields.io/badge/X-@BigMati1220-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="https://instagram.com/bigmati20" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@bigmati20-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://discord.gg/bigmati20" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Servidor-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Big-Mati&style=flat-square&color=db5461&label=Visitas+Totales" alt="Contador de visitas" />
+</div>
