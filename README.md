@@ -1,9 +1,9 @@
 <div align="center">
   <h1>Mateo Vicente</h1>
-  <p><strong>Desarrollo Web y Móvil | Soporte Técnico y Hardware</strong></p>
+  <p><strong>Desarrollo Web & Móvil | Automatización & IA | Soporte & Hardware</strong></p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=DB5461&center=true&vCenter=true&width=500&lines=Desarrollo+Web;Aplicaciones+M%C3%B3viles;Python+%2B+Bases+de+Datos;IA+%2B+Automatizaci%C3%B3n;Armado+y+Mantenimiento+de+PCs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1300&color=DB5461&center=true&vCenter=true&width=560&lines=Desarrollador+Web+%26+M%C3%B3vil;IA+Aplicada+con+Google+Gemini+%26+n8n;Backend+%26+Software+(Python%2C+C%2B%2B%2C+MySQL);Optimizaci%C3%B3n+de+Hardware+y+Soporte+TI" alt="Typing SVG" />
   </a>
 </div>
 
