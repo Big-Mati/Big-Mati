@@ -3,7 +3,7 @@
   <p><strong>Desarrollo Web & Móvil | Automatización & IA | Soporte & Hardware</strong></p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1300&color=DB5461&center=true&vCenter=true&width=560&lines=Desarrollador+Web+%26+M%C3%B3vil;IA+Aplicada+con+Google+Gemini+%26+n8n;Backend+%26+Software+(Python%2C+C%2B%2B%2C+MySQL);Optimizaci%C3%B3n+de+Hardware+y+Soporte+TI" alt="Typing SVG" />(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1300&color=DB5461&center=true&vCenter=true&width=580&lines=%3E+Desarrollador+Web+%26+M%C3%B3vil;%3E+IA+Aplicada+con+Google+Gemini+%26+n8n;%3E+Backend+%26+Software+(Python%2C+C%2B%2B%2C+MySQL);%3E+Optimizaci%C3%B3n+de+Hardware+y+Soporte+TI)
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1300&color=DB5461&center=true&vCenter=true&width=560&lines=Desarrollador+Web+%26+M%C3%B3vil;IA+Aplicada+con+Google+Gemini+%26+n8n;Backend+%26+Software+(Python%2C+C%2B%2B%2C+MySQL);Optimizaci%C3%B3n+de+Hardware+y+Soporte+TI" alt="Typing SVG" />
   </a>
 </div>
 
