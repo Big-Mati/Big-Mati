@@ -3,7 +3,7 @@
   <p><strong>Desarrollo Web y Móvil | Soporte Técnico y Hardware</strong></p>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=DB5461&center=true&vCenter=true&width=500&lines=Desarrollo+Web;Aplicaciones+M%C3%B3viles;Python+%2B+Bases+de+Datos;Armado+y+Mantenimiento+de+PCs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=DB5461&center=true&vCenter=true&width=500&lines=Desarrollo+Web;Aplicaciones+M%C3%B3viles;Python+%2B+Bases+de+Datos;IA+%2B+Automatizaci%C3%B3n;Armado+y+Mantenimiento+de+PCs" alt="Typing SVG" />
   </a>
 </div>
 
@@ -11,10 +11,11 @@
 
 ### Sobre mí
 
-- **Actualmente:** Creando proyectos de desarrollo web y aplicaciones móviles.
-- **Aprendiendo:** Inteligencia artificial, machine learning y desarrollo para móviles.
+- **Actualmente:** Creando proyectos de desarrollo web, aplicaciones móviles y flujos de automatización.
+- **Especialidad en IA:** Implementación y soluciones potenciadas con **Google Gemini**.
+- **Aprendiendo:** Inteligencia artificial avanzada, machine learning y desarrollo para móviles.
 - **Colaboraciones:** Disponible para participar en proyectos de software y soluciones prácticas.
-- **Pregúntame sobre:** Desarrollo web (frontend y backend), Python y bases de datos.
+- **Pregúntame sobre:** Desarrollo web (frontend y backend), Python, C++, MySQL, n8n e IA.
 - **Hardware y soporte:** Armado, optimización y mantenimiento de computadoras.
 
 ---
@@ -24,6 +25,7 @@
 #### Lenguajes de Programación
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
@@ -39,7 +41,14 @@
 #### Backend y Bases de Datos
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL Workbench" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+#### Inteligencia Artificial y Automatización
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
 ---
