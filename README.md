@@ -242,9 +242,14 @@ Estudiante de **Ingeniería de Software con Inteligencia Artificial** y desarrol
   <img src="https://streak-stats.demolab.com/?user=Big-Mati&background=0D1117&ring=DB5461&fire=DB5461&currStreakLabel=DB5461&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
 
-<!-- GRÁFICO DE ACTIVIDAD ANIMADO -->
+<!-- PANEL DE DETALLES Y CURVA DE CONTRIBUCIONES (SERVIDOR ESTABLE) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Big-Mati&bg_color=0d1117&color=c9d1d9&line=db5461&point=ffffff&area=true&hide_border=true&custom_title=Historial%20de%20Contribuciones%20en%20GitHub" width="95%" alt="Gráfico de actividad" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Big-Mati&theme=github_dark" width="95%" alt="Resumen de Actividad" />
+</p>
+
+<!-- MAPA DE CALOR DE CONTRIBUCIONES PERSONALIZADO -->
+<p align="center">
+  <img src="https://ghchart.rshah.org/db5461/Big-Mati" width="92%" alt="Calendario de Contribuciones" />
 </p>
 
 ---
